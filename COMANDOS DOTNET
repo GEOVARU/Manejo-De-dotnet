@@ -11,7 +11,16 @@ si queremos realizar la coneccion  nos vamos al archivo appsettings.json y coloc
   ---------------------------------------------------------------
 Comandos de crear una migracion y Crear tabla(s) en la base de datos en base a la migracion(s)
 *****agregar una migracion en DOTNET*****
+
+
+
+dotnet-ef migrations add MigracionIncial
+
+------------------------------------------------------------------
+
 dotnet ef migrations add MigracionInicial
+
+
 *****Agregar una migracion en DOTNET*****
 
 *****Actualizacion de migracion*****
